@@ -1,4 +1,4 @@
-package sort.kv.com.sort;
+package com.kv.sort;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("sort.kv.com.sort", appContext.getPackageName());
+        assertEquals("com.kv.sort", appContext.getPackageName());
     }
 }

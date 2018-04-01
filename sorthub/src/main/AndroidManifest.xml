@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="sort.kv.com.sort">
+    package="com.kv.sort">
 
     <application
         android:allowBackup="true"

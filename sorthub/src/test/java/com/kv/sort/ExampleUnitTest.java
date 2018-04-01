@@ -1,4 +1,4 @@
-package sort.kv.com.sort;
+package com.kv.sort;
 
 import org.junit.Test;
 
